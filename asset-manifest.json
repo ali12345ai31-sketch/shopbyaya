@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shopbyaya/static/css/main.6d095934.css",
+    "main.js": "/shopbyaya/static/js/main.b06e9161.js",
+    "static/media/logo.png.jpg": "/shopbyaya/static/media/logo.png.e667dc3ff1b0cb237462.jpg",
+    "index.html": "/shopbyaya/index.html",
+    "main.6d095934.css.map": "/shopbyaya/static/css/main.6d095934.css.map",
+    "main.b06e9161.js.map": "/shopbyaya/static/js/main.b06e9161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d095934.css",
+    "static/js/main.b06e9161.js"
+  ]
+}
